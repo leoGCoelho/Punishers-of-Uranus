@@ -1,0 +1,7 @@
+#Robocode robot team
+#Sun Jul 29 02:24:01 BRT 2018
+team.members=punishers.PunisherStranded*,punishers.PunisherWolf*
+team.author.name=Artur Cerri, Douglas Schiavi, Leonardo Coelho, Vagner Sampaio, Willians Silva
+robocode.version=1.9.3.2
+team.description=Best time ever.
+team.version=2.0
